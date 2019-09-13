@@ -64,7 +64,7 @@ man ./corewar.man
   - Ncurses output
 * [gly](https://github.com/gokily).
   - Virtual Machine
-  - Champion
+  - Verbosity flag
 * [syzhang](https://github.com/syzhang16)
   - Virtual Machine
   - Champion
