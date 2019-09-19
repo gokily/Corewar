@@ -9,6 +9,7 @@ The goal of this project is to create a virtual machine in which champions will 
 * The champion has a set of instructions run when the game start. You can find the champion in each `.s` file.
 ![the_real_deal.s](screenshots/champion.png)
 * The assembler will compile a champion into a byte code that will be stored in a `.cor` file.
+![byte_code](screenshots/assembler_byte_code.png)
 * The virtual machine then run the game by :
   - receiving `.cor` files;
   - placing each champion in the arena (memory);
@@ -18,6 +19,7 @@ The goal of this project is to create a virtual machine in which champions will 
 ### Bonus
 * Decompiler
 * Man page
+![man_page](screenshots/man_page.png)
 * Ncurses output
 * flag v, a, stealth
 
