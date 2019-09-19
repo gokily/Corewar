@@ -1,7 +1,6 @@
 # Corewar
 
-
-This project was made in collaboration with [ratin](https://github.com/ratin42), [hlombard](https://github.com/HugotOwned) and [gly](https://github.com/gokily).
+This project was made in collaboration with [ratin](https://github.com/ratin42), [hlombard](https://github.com/hlombard) and [gly](https://github.com/gokily).
 
 The goal of this project is to create a virtual machine in which champions will fight against one another, but also to create an assembler to compile those champions as well as a champion.
 
@@ -59,7 +58,7 @@ man ./corewar.man
 * [ratin](https://github.com/ratin42)
   - Assembler
   - Decompiler
-* [hlombard](https://github.com/HugotOwned)
+* [hlombard](https://github.com/hlombard)
   - Virtual Machine
   - Ncurses output
 * [gly](https://github.com/gokily).
