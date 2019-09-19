@@ -7,6 +7,7 @@ The goal of this project is to create a virtual machine in which champions will 
 ### What is Corewar?
 * Corewar is a game that brings champions together around a virtual machine, with the objective being for these champions to stay alive.
 * The champion has a set of instructions run when the game start. You can find the champion in each `.s` file.
+![the_real_deal.s](screenshots/champion.png)
 * The assembler will compile a champion into a byte code that will be stored in a `.cor` file.
 * The virtual machine then run the game by :
   - receiving `.cor` files;
