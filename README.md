@@ -21,15 +21,15 @@ The goal of this project is to create a virtual machine in which champions will 
 * flag v, a, stealth
 
 ### Usage
-* Run the Makefile to create the `asm` and `corewar` executable files
+##### Run the Makefile to create the `asm` and `corewar` executable files
 ```
 make
 ```
-* To use the Assembler
+##### To use the Assembler
 ```
 ./asm <file_name.s>
 ```
-* To use the Virtual Machine
+##### To use the Virtual Machine
 ```
 ./corewar [-n N] [-dump N] [-v N] [-visu] [--stealth] [-a] <file_name.cor> ...
 ```
@@ -45,11 +45,11 @@ make
   - flag visu - Ncurses output mode;
   - flag stealth - Competition mode, hide code with visual;
   - flag a - Prints output from "aff".
-* To use the Decompiler
+##### To use the Decompiler
 ```
 ./disassembler <file_name.cor>
 ```
-* To use the Man page
+##### To use the Man page
 ```
 man ./corewar.man
 ```
