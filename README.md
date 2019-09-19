@@ -66,5 +66,4 @@ man ./corewar.man
   - Verbosity flag
 * [syzhang](https://github.com/syzhang16)
   - Virtual Machine
-  - Champion
   - Man page
