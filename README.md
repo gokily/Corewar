@@ -14,6 +14,7 @@ The goal of this project is to create a virtual machine in which champions will 
   - receiving `.cor` files;
   - placing each champion in the arena (memory);
   - reading the byte codes of each champion, interpreting and running them if they're valid.
+![vm](screenshots/vm.png)
 * The game ends when all the processes are dead. The winner is the last player reported to be alive.
 
 ### Bonus
