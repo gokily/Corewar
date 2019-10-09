@@ -11,10 +11,10 @@ The goal of this project is to create a virtual machine in which champions will 
 * The assembler will compile a champion into a byte code that will be stored in a `.cor` file.
 ![byte_code](screenshots/assembler_byte_code.png)
 * The virtual machine then run the game by :
+![vm](screenshots/vm.png)
   - receiving `.cor` files;
   - placing each champion in the arena (memory);
   - reading the byte codes of each champion, interpreting and running them if they're valid.
-![vm](screenshots/vm.png)
 * The game ends when all the processes are dead. The winner is the last player reported to be alive.
 
 ### Bonus
